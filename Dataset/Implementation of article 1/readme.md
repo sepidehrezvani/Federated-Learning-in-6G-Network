@@ -34,11 +34,6 @@
 
 ---
 
-## 📌 ساختار فایل‌ها
-- `Implementation_of_article_1.ipynb` → نوت‌بوک اصلی پروژه  
-- `README.md` → توضیحات پروژه  
-
----
 
 ## 📌 مقاله مرجع
 Deep Reinforcement Learning Optimization for Active RIS in TN-NTN Networks
